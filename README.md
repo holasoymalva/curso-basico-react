@@ -16,8 +16,8 @@
 * Introduccion a React.js
 
   * Conceptos basicos de React.js
-  * Estructura de una App en Rect
-  * Creacion de componentes en React
+  * Estructura de una App en React.js
+  * Creacion de componentes en React.js
 
 * JSX:
   * Intro a JSX
